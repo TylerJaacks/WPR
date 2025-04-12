@@ -1,12 +1,6 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup Condition=" '$(OS)' != 'Windows_NT' ">
-	<TargetFrameworks>net5.0;net6.0-android</TargetFrameworks>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(OS)' == 'Windows_NT' ">
-	<TargetFrameworks>net5.0-windows10.0.17763.0;net6.0-android</TargetFrameworks>
-  </PropertyGroup>
   <PropertyGroup>
+	<TargetFrameworks>net8.0-windows10.0.26100.0</TargetFrameworks>
     <Nullable>enable</Nullable>
   </PropertyGroup>
   <ItemGroup>
@@ -15,5 +9,4 @@
   <ItemGroup>
     <ProjectReference Include="$(SolutionDir)\Core\WPR.Common\WPR.Common.csproj" />
   </ItemGroup>
-
 </Project>
