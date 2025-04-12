@@ -398,3 +398,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+*/*/obj
+*/*/bin
+/Core/Microsoft.Device.Sensors/obj/Debug/net5.0-windows10.0.17763.0/.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+/Core/Microsoft.Device.Sensors/obj/Debug/net5.0-windows10.0.17763.0/Microsoft.Devices.Sensors.AssemblyInfo.cs
+/Core/Microsoft.Device.Sensors/obj/Debug/net5.0-windows10.0.17763.0/Microsoft.Devices.Sensors.AssemblyInfoInputs.cache
+/Core/Microsoft.Device.Sensors/obj/Debug/net5.0-windows10.0.17763.0/Microsoft.Devices.Sensors.GeneratedMSBuildEditorConfig.editorconfig
