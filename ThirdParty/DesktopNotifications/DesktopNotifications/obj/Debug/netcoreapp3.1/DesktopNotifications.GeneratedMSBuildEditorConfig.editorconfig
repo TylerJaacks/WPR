@@ -1,8 +1,0 @@
-is_global = true
-build_property.RootNamespace = DesktopNotifications
-build_property.ProjectDir = D:\Documents\Visual Studio 2022\Projects\WPR\ThirdParty\DesktopNotifications\DesktopNotifications\
-build_property.EnableComHosting = 
-build_property.EnableGeneratedComInterfaceComImportInterop = 
-build_property.CsWinRTUseWindowsUIXamlProjections = false
-build_property.EffectiveAnalysisLevelStyle = 
-build_property.EnableCodeStyleSeverity = 

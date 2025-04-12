@@ -398,13 +398,3 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-
-Core\Microsoft.Device.Sensors\obj\*	
-Core\Microsoft.Phone\obj\*	
-Core\Microsoft.Xna.Framework.GamerServices\obj\*	
-Core\System.Device\obj\*	
-Core\WPR.Common\obj\*	
-Core\WPR.StandardCompability\obj\*	
-Core\WPR.WindowsCompability\obj\*	
-Core\WPR.XnaCompabilityPatch\obj\*	
-Core\WPR\obj\*	
