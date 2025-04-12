@@ -1,3 +1,8 @@
 is_global = true
 build_property.RootNamespace = Projektanker.Icons.Avalonia.FontAwesome
-build_property.ProjectDir = C:\Users\Admin\source\repos\mediaexplorer74\WPR\ThirdParty\Icons.Avalonia\src\Projektanker.Icons.Avalonia.FontAwesome\
+build_property.ProjectDir = D:\Documents\Visual Studio 2022\Projects\WPR\ThirdParty\Icons.Avalonia\src\Projektanker.Icons.Avalonia.FontAwesome\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

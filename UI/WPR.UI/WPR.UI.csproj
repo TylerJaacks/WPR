@@ -63,6 +63,11 @@
     <ProjectReference Include="$(SolutionDir)\Core\WPR\WPR.csproj" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Update="Views\ApplicationItem.axaml.cs">
       <DependentUpon>ApplicationItem.axaml</DependentUpon>
     </Compile>
